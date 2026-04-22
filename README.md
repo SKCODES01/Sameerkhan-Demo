@@ -1,4 +1,4 @@
 # Sameerkhan-Demo
 This is a demo repository.
 <br>
-Author - Sameer Khan
+Author - Sameer Khan (SK)
